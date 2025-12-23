@@ -6,7 +6,7 @@ This project contains a clean and user-friendly interface with multiple pages li
 ---
 
 ## 🚀 Live Demo
-🔗 **Project Link:** (Add your GitHub Pages link here)
+🔗 **Project Link:** (https://imayeshakhatoon.github.io/ui_project/)
 
 ---
 
