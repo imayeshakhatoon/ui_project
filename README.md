@@ -37,3 +37,9 @@ This project contains a clean and user-friendly interface with multiple pages li
 ---
 
 ## 📂 Project Structure
+/ui_project
+ ├── index.html
+ ├── signup.html
+ ├── dashboard.html
+ ├── style.css
+ └── script.js
