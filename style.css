@@ -1,0 +1,74 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body{
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:linear-gradient(135deg,#023e8a,#00b4d8);
+}
+
+.auth-container{
+  width:340px;
+  background:#fff;
+  padding:30px;
+  border-radius:12px;
+  box-shadow:0 10px 25px rgba(0,0,0,0.2);
+  text-align:center;
+}
+
+.title{
+  margin-bottom:5px;
+  color:#023e8a;
+}
+
+.subtitle{
+  font-size:14px;
+  color:#555;
+  margin-bottom:15px;
+}
+
+.auth-form input{
+  width:100%;
+  padding:10px;
+  margin-top:10px;
+  border:1px solid #aaa;
+  border-radius:6px;
+  outline:none;
+}
+
+.auth-form input:focus{
+  border:1px solid #023e8a;
+}
+
+button{
+  width:100%;
+  margin-top:15px;
+  padding:10px;
+  border:none;
+  border-radius:6px;
+  background:#0077b6;
+  color:white;
+  cursor:pointer;
+  font-size:16px;
+}
+
+button:hover{
+  background:#023e8a;
+}
+
+.switch-text{
+  margin-top:10px;
+  font-size:14px;
+}
+
+.msg{
+  margin-top:10px;
+  font-size:14px;
+  color:red;
+}
