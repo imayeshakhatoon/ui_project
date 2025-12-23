@@ -1,0 +1,39 @@
+# 🌟 Modern UI Project
+
+A beautifully designed and responsive **Frontend UI Project** developed using **HTML, CSS, and JavaScript**.  
+This project contains a clean and user-friendly interface with multiple pages like **Login, Signup, and Dashboard**, making it perfect for beginners learning frontend development and for showcasing in portfolios.
+
+---
+
+## 🚀 Live Demo
+🔗 **Project Link:** (Add your GitHub Pages link here)
+
+---
+
+## 🖥️ Pages Included
+✔️ Home / Index Page  
+✔️ Login Page  
+✔️ Signup Page  
+✔️ Dashboard Page  
+
+---
+
+## ✨ Features
+- ⚡ Modern & Responsive UI  
+- 🎨 Beautiful Color Theme  
+- 📱 Mobile Friendly Design  
+- 🧩 Clean Folder Structure  
+- 💻 Beginner Friendly Code  
+
+---
+
+## 🛠️ Tech Stack
+| Technology | Purpose |
+|-----------|--------|
+| HTML | Structure |
+| CSS | Styling |
+| JavaScript | Interactivity |
+
+---
+
+## 📂 Project Structure
