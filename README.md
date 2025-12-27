@@ -19,8 +19,7 @@ This project contains a clean and user-friendly interface with multiple pages li
 ---
 
 ## ✨ Features
-- ⚡ Modern & Responsive UI  
-- 🎨 Beautiful Color Theme  
+- ⚡ Modern & Responsive UI 
 - 📱 Mobile Friendly Design  
 - 🧩 Clean Folder Structure  
 - 💻 Beginner Friendly Code  
